@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+openai
+pypdf
+faiss-cpu
+tiktoken
+unstructured
+pandas
+numpy
+requests
+sentence-transformers
