@@ -4,3 +4,4 @@ pyngrok==7.2.3
 python-dotenv==1.0.1
 streamlit==1.42.0
 transformers==4.46.2
+langchain-community
